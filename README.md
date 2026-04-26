@@ -29,10 +29,12 @@ Successfully completed a practical simulation at **TATA**, focusing on IAM strat
 ---
 
 ## 📊 GitHub Stats
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amit-Kushwaha-01&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Kushwaha-01&layout=compact&theme=radical)
-
 ---
+
+## 📊 GitHub Stats
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amit-kushwaha45&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-kushwaha45&layout=compact&theme=radical)
+
 
 ## 📫 Let's Connect!
 * **LinkedIn:** [https://www.linkedin.com/in/amit-kushwaha-078127398/]
