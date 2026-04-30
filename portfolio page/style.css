@@ -1,0 +1,45 @@
+body{
+    background-image: url(R.jpg);
+    font-family: Arial;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    text-decoration: underline black 5px;
+}
+
+.box{
+    width:300px;
+    border:2px solid black;
+    padding:30px;
+    margin:40px auto;
+    background-color:rgb(133, 191, 218);
+    border-radius:8px;
+}
+
+.box input{
+    color: white;
+    width:100%;
+    padding:8px;
+    margin-top:5px;
+    margin-bottom:15px;
+    background-color: transparent;
+}
+
+.box button{
+    width:100%;
+    padding:8px;
+    background-color:black;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+.box button:hover{
+    background-color:rgb(56, 9, 156);
+}
+
+a{
+    font-size:14px;
+}

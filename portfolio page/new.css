@@ -1,0 +1,62 @@
+body{
+   background-color: rgb(203, 157, 100);
+text-align: cover;
+background-repeat: no-repeat;
+    background-size:cover;
+    background-position: top;
+    background-attachment: fixed;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
+
+h1{
+color: brown;
+text-align: center;
+text-decoration: underline;
+}
+label{
+    font-size: 30px;
+    color: white;
+}
+.check{
+    height: 800px;
+    width:700px;
+    border:2px solid black;
+    padding:30px;
+    margin:40px auto;
+    background-color:transparent;
+    border-radius:8px;
+    
+}
+
+.check input{
+    color: white;
+    width:100%;
+    padding:8px;
+    margin-top:5px;
+    margin-bottom:15px;
+    background-color: transparent;
+    
+}
+
+.check button{
+    width:100%;
+    padding:8px;
+    background-color:black;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+.check button:hover{
+    background-color:rgb(56, 9, 156);
+}
+
+a{
+    font-size:14px;
+}
+
+

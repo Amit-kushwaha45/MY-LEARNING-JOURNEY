@@ -1,0 +1,61 @@
+body{
+   background-color: rgba(0, 0, 0, 0.378);
+    line-height: 50px;
+}
+p{
+    font-size: 30px;
+    color: rgb(12, 87, 125);
+    text-align: center;
+    text-decoration: underline black;
+}
+input{
+    font-size: 20px;
+}
+label{
+    font-size: 30px;
+}
+.photo{
+    height: 1100px;
+    width:700px;
+    border:2px solid black;
+    padding:30px;
+    margin:40px auto;
+    background-color:transparent;
+    border-radius:8px;
+    
+}
+
+.photo input{
+       width:100%;
+    padding:8px;
+    margin-top:5px;
+    margin-bottom:15px;
+    background-color: rgb(181, 177, 184);
+    
+}
+
+.photo button{
+    width:100%;
+    padding:8px;
+    background-color:black;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+.photo button:hover{
+    background-color:rgb(56, 9, 156);
+}
+
+a{
+    font-size:14px;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    padding: 300px;
+}
+pre{
+    font-size: 30px;
+}

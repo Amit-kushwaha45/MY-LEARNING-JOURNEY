@@ -1,0 +1,54 @@
+body{
+    background-image: url(1.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: top;
+    background-attachment: fixed;
+    
+}
+h1{
+    color: rgb(26, 25, 25);
+    text-align: center;
+   border-style: solid;
+   border-width: 5px;
+   background-color: white;
+    }
+.form-container{
+    height: 1000px;
+    width:500px;
+    border:2px solid black;
+    padding:30px;
+    margin:40px auto;
+    background-color:transparent;
+    border-radius:8px;
+    
+}
+
+.form-container input{
+       width:100%;
+    padding:8px;
+    margin-top:5px;
+    margin-bottom:15px;
+    background-color: rgb(181, 177, 184);
+    
+}
+
+.form-container button{
+    width:100%;
+    padding:8px;
+    background-color:black;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+.form-container button:hover{
+    background-color:rgb(56, 9, 156);
+}
+
+a{
+    font-size:14px;
+}
+label{
+    color: white;
+}
