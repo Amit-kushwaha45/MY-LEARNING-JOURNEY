@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# 1. Number input lo
+read -p "Enter Mobile Number (e.g., +919999999999): " NUMBER
+
+# 2. Inline Python se basic OSINT details nikaalo
+python3 -c "
+import phonenumbers
+from phonenumbers import geocoder, carrier
+
+try:
+     parsed_num = phonenumbers.parse('$NUMBER', None)
+     if phonenumbers.is_valid_number(parsed_num):
+        print('Location:', geocoder.description_for_number(parsed_num, 'en'))
+        print('Carrier :', carrier.name_for_number(parsed_num, 'en'))
+     else:
+         print('Invalid Number!')
+except:
+    print('Format galat hai!')
+"
